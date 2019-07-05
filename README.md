@@ -3,6 +3,7 @@
 TODO: 私はモンテカルロ法を使って円周率を求めました。
 
 ## Installation
+githubでdaddygongon/processing_templatesをforkしてcloneしてください.
 
 ## Usage
 TODO: 見るだけなので特にないです。
